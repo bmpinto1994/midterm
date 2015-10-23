@@ -16,4 +16,5 @@ class MessageCreateView(CreateView):
 
 class Success(TemplateView):
   template_name = "success.html"
+
 # Create your views here.
